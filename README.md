@@ -9,7 +9,12 @@ Dieses Projekt zeigt eine **Vorhersage der Bevölkerung von Katar** mithilfe ein
 - Analyse historischer Bevölkerungsdaten von Katar  
 - Vorhersage zukünftiger Bevölkerungszahlen mit linearer Regression  
 - Datenvisualisierung mit `matplotlib` und `seaborn`  
-- Einfacher, verständlicher Code für Einsteiger in Data Science  
+- Einfacher, verständlicher Code für Einsteiger in Data Science
+
+
+## Bild
+
+<img width="630" height="477" alt="Katar" src="https://github.com/user-attachments/assets/cf834603-07a8-495c-b7d4-0f4169b7e409" />
 
 ## Technologien
 
